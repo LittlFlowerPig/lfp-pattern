@@ -1,20 +1,28 @@
 package com.lfp.demo.pattern.establish.factory.abstractFactory;
 
 /**
- * Title:
- * Project: fp-pattern
- * Description:
+ * Title: 实体保存
+ * Description: 产品接口
+ * Project: lfp-pattern
  * Date: 2017-11-15
  * Copyright: Copyright (c) 2020
- * Company: 北京中科院软件中心有限公司 (SEC)
+ * Company: LFP
  *
  * @author ZhuTao
  * @version 1.0
  */
 public interface EntitySave {
 
+    /**
+     * 实体保存
+     * @param value     实体对象
+     */
     void save(Object value);
 
+    /**
+     * 实体更新
+     * @param value     实体对象
+     */
     void update(Object value);
 
 }

@@ -4,12 +4,12 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Title:
- * Project: fp-pattern
- * Description:
+ * Title: HQL查询
+ * Description: 产品实例
+ * Project: lfp-pattern
  * Date: 2017-11-15
  * Copyright: Copyright (c) 2020
- * Company: 北京中科院软件中心有限公司 (SEC)
+ * Company: LFP
  *
  * @author ZhuTao
  * @version 1.0

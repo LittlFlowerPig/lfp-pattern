@@ -1,18 +1,22 @@
 package com.lfp.demo.pattern.establish.factory.factoryMethod;
 
 /**
- * Title:
- * Project: fp-pattern
- * Description:
+ * Title: 查询工厂
+ * Description: 工厂接口
+ * Project: lfp-pattern
  * Date: 2017-11-15
  * Copyright: Copyright (c) 2020
- * Company: 北京中科院软件中心有限公司 (SEC)
+ * Company: LFP
  *
  * @author ZhuTao
  * @version 1.0
  */
 public interface QueryFactory {
 
+    /**
+     * 工厂方法，返回产品（实体查询）
+     * @return EntityQuery      实体查询
+     */
     EntityQuery factory();
 
 }

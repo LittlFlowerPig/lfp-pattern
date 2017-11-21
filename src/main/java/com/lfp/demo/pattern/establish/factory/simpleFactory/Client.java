@@ -1,12 +1,12 @@
 package com.lfp.demo.pattern.establish.factory.simpleFactory;
 
 /**
- * Title:
- * Project: fp-pattern
- * Description:
+ * Title: 简单工厂模式演示
+ * Description: 演示静态工厂方法，生产不同的产品
+ * Project: lfp-pattern
  * Date: 2017-11-15
  * Copyright: Copyright (c) 2020
- * Company: 北京中科院软件中心有限公司 (SEC)
+ * Company: LFP
  *
  * @author ZhuTao
  * @version 1.0

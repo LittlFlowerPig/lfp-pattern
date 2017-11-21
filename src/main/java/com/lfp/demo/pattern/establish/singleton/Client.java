@@ -3,12 +3,12 @@ package com.lfp.demo.pattern.establish.singleton;
 import java.util.Date;
 
 /**
- * Title: 单例模式演示，演示多种单例实现方式及各自的效率情况。
- * Project: fp-pattern
- * Description:
+ * Title: 单例模式演示
+ * Description: 演示多种单例实现方式及各自的效率情况
+ * Project: lfp-pattern
  * Date: 2017-11-16
  * Copyright: Copyright (c) 2020
- * Company: 北京中科院软件中心有限公司 (SEC)
+ * Company: LFP
  *
  * @author ZhuTao
  * @version 1.0

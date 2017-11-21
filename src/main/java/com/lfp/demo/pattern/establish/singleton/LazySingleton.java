@@ -1,12 +1,12 @@
 package com.lfp.demo.pattern.establish.singleton;
 
 /**
- * Title: 懒汉式单例，第一次调用时，初始化，需要处理多线程问题，每次使用时都要判断
- * Project: fp-pattern
- * Description:
+ * Title: 懒汉式单例
+ * Description: 第一次调用时，初始化，需要处理多线程问题，每次使用时都要判断
+ * Project: lfp-pattern
  * Date: 2017-11-16
  * Copyright: Copyright (c) 2020
- * Company: 北京中科院软件中心有限公司 (SEC)
+ * Company: LFP
  *
  * @author ZhuTao
  * @version 1.0
